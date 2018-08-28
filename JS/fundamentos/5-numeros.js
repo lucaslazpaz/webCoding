@@ -4,7 +4,7 @@
 const peso1 = 1.0
 const peso2 = Number('2.1')
 
-//O Number auto detecta se o valor declarao é inteiro ou não.
+//O Number auto detecta se o valor declarado é inteiro ou não.
 console.log(peso1, peso2)
 console.log(Number.isInteger(peso1))
 console.log(Number.isInteger(peso2))
